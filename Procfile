@@ -1,1 +1,1 @@
-web: gunicorn excellenceapp.wsgi --log-file -
+web: gunicorn verification.wsgi --log-file -
